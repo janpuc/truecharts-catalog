@@ -10,7 +10,7 @@ dependencies:
   version: "3.0.3"
 deprecated: false
 description: "Loki: like Prometheus, but for logs."
-home: https://github.com/truecharts/apps/tree/master/charts/stable/loki
+home: https://github.com/janpuc/truecharts-apps/tree/master/charts/stable/loki
 icon: https://truecharts.org/_static/img/appicons/loki.png
 keywords:
 - logs
